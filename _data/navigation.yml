@@ -1,11 +1,12 @@
 # main links
 main:
-  - title: "Carte Nationale"
+  - title: "Carte nationale"
     url: /carte/
-  - title: "Occitanie"
-    url: /eolienne_Occitanie/
-  - title: "Sortie"
+  - title: "Synthèse nationale"
     url: /sortie_total/
+  - title: "Synthèse Occitanie"
+    url: /eolienne_Occitanie/
+
 
 # this is the navigation sidebar if you click on code or maps for example.
 # it is refered there as

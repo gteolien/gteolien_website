@@ -1,8 +1,10 @@
 ---
-permalink: /carteiframe/
+permalink: /eolienne_Occitanie/
 layout: events
 ---
 
+
+<head>
 <script>// Pandoc 2.9 adds attributes on both header and div. We remove the former (to
 // be compatible with the behavior of Pandoc < 2.8).
 document.addEventListener('DOMContentLoaded', function(e) {

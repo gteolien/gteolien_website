@@ -6,12 +6,12 @@ main:
     url: /sortie_total/
   - title: "Synthèse Occitanie"
     url: /eolienne_Occitanie/
-  - title: "Synthéses"
-    sublinks:
-       - title: "Première Sortie"
-         url: /synthese/prem/
-       - title: "Sortie Totale"
-         url: /synthese/sortie_total/
+ # - title: "Synthéses"
+ #   sublinks:
+ #      - title: "Première Sortie"
+ #        url: /synthese/prem/
+ #      - title: "Sortie Totale"
+ #        url: /synthese/sortie_total/
 
 
 # this is the navigation sidebar if you click on code or maps for example.

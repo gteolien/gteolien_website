@@ -1,12 +1,36 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Veranstaltung"
+    url: /events/
+  - title: "Services"
+    url: /services/
+  - title: "Über uns" 
+    url: /team/
+  - title: "Kontakt" 
+    url: /contact/
+
+# this is the navigation sidebar if you click on code or maps for example.
+# it is refered there as
+# ---
+# sidebar:
+#   nav: navmaps
+# ---
+
+# ---------------------------------CAREFUL----------------------------------------
+# do not use liquid filter in navigation. Jekyll take it as a static file
+# so <img src="{{ '/files/icon/Tatoo_v02_icon.png' | absolute_url }}" class="emoji" />
+# this will not work
+
+
+# navmaps:
+  # - title: "Maps"
+    # url: /maps/
+    # children:
+    # - title: <img src="https://dgrv.github.io/dorian-gravier/files/icon/loca.png" class="emoji" /> Outdoor
+      # url: /maps/leaflet/
+    # - title: <img src="https://dgrv.github.io/dorian-gravier/files/icon/Tatoo_v02_icon.png" class="emoji" /> Bike Trip 2022
+      # url: /maps/bt/
+    # - title: <img src="https://dgrv.github.io/dorian-gravier/files/icon/Tatoo_v02_icon.png" class="emoji" /> Bike Trip 2025
+      # url: /maps/bt2025/
+    # - title: <img src="https://dgrv.github.io/dorian-gravier/files/icon/mountain_small.png" class="emoji"  /> Legendary Multipitch
+      # url: /maps/climbing/

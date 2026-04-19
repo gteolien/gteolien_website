@@ -7,8 +7,11 @@ main:
   - title: "Synthèse Occitanie"
     url: /eolienne_Occitanie/
   - title: "Synthéses"
-    url: /synthese/
-    
+    sublinks:
+       - title: "Première Sortie"
+         url: /synthese/prem/
+       - title: "Sortie Totale"
+         url: /synthese/sortie_total/
 
 
 # this is the navigation sidebar if you click on code or maps for example.
@@ -24,11 +27,11 @@ main:
 # this will not work
 
 
-navmaps:
-  - title: "Synthèses"
-    url: /synthese/
-    children:
-    - title: "Première Sortie"
-      url: /synthese/prem/
-    - title: "Sortie Totale"
-      url: /synthese/sortie_total/
+# navmaps:
+  # - title: "Synthèses"
+    # url: /synthese/
+    # children:
+    # - title: "Première Sortie"
+      # url: /synthese/prem/
+    # - title: "Sortie Totale"
+      # url: /synthese/sortie_total/

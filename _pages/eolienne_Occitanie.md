@@ -1,19 +1,7 @@
-<!DOCTYPE html>
-
-<html>
-
-<head>
-
-<meta charset="utf-8" />
-<meta name="generator" content="pandoc" />
-<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
-
-
-<meta name="author" content="Margaux JULIEN" />
-
-<meta name="date" content="2025-12-09" />
-
-<title>Analyses données mortalité éolienne en Occitanie</title>
+---
+permalink: /carteiframe/
+layout: events
+---
 
 <script>// Pandoc 2.9 adds attributes on both header and div. We remove the former (to
 // be compatible with the behavior of Pandoc < 2.8).
@@ -969,5 +957,3 @@ $(document).ready(function () {
   })();
 </script>
 
-</body>
-</html>

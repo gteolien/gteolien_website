@@ -6,6 +6,9 @@ main:
     url: /sortie_total/
   - title: "Synthèse Occitanie"
     url: /eolienne_Occitanie/
+  - title: "Synthéses"
+    url: /synthese/
+    
 
 
 # this is the navigation sidebar if you click on code or maps for example.
@@ -21,15 +24,11 @@ main:
 # this will not work
 
 
-# navmaps:
-  # - title: "Maps"
-    # url: /maps/
-    # children:
-    # - title: <img src="https://dgrv.github.io/dorian-gravier/files/icon/loca.png" class="emoji" /> Outdoor
-      # url: /maps/leaflet/
-    # - title: <img src="https://dgrv.github.io/dorian-gravier/files/icon/Tatoo_v02_icon.png" class="emoji" /> Bike Trip 2022
-      # url: /maps/bt/
-    # - title: <img src="https://dgrv.github.io/dorian-gravier/files/icon/Tatoo_v02_icon.png" class="emoji" /> Bike Trip 2025
-      # url: /maps/bt2025/
-    # - title: <img src="https://dgrv.github.io/dorian-gravier/files/icon/mountain_small.png" class="emoji"  /> Legendary Multipitch
-      # url: /maps/climbing/
+navmaps:
+  - title: "Synthèses"
+    url: /synthese/
+    children:
+    - title: "Première Sortie"
+      url: /synthese/prem/
+    - title: "Sortie Totale"
+      url: /synthese/sortie_total/

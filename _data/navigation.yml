@@ -2,6 +2,8 @@
 main:
   - title: "Carte Nationale"
     url: /carte/
+  - title: "CarteNationale2"
+    url: /carte2/
   - title: "Occitanie"
     url: /eolienne_Occitanie/
 

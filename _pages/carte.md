@@ -1,6 +1,6 @@
 ---
 permalink: /carte/
-layout: events
+layout: single
 ---
 
 <h1>test</h1>

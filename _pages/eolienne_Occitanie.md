@@ -1,6 +1,6 @@
 ---
 permalink: /eolienne_Occitanie/
-layout: events
+layout: single
 ---
 
 

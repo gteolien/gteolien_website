@@ -2,10 +2,12 @@
 main:
   - title: "Carte Nationale"
     url: /carte/
-  - title: "CarteNationale2"
+  - title: "Cale"
     url: /carte2/
   - title: "Occitanie"
     url: /eolienne_Occitanie/
+  - title: "Sortie"
+    url: /sortie_total/
 
 # this is the navigation sidebar if you click on code or maps for example.
 # it is refered there as

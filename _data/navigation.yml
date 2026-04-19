@@ -1,13 +1,9 @@
 # main links
 main:
-  - title: "Veranstaltung"
-    url: /events/
-  - title: "Services"
-    url: /services/
-  - title: "Über uns" 
-    url: /team/
-  - title: "Kontakt" 
-    url: /contact/
+  - title: "Carte Nationale"
+    url: /carte/
+  - title: "Occitanie"
+    url: /eolienne_Occitanie/
 
 # this is the navigation sidebar if you click on code or maps for example.
 # it is refered there as
